@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "benotxii13341302cathuoft_0007.png"; bbox 0 0 2199 3354; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 600 1062 1506 1176">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 600 1062 1506 1176">
+     <span class='ocr_line' id='line_1_1' title="bbox 600 1062 1506 1176; baseline -0.004 -1"><span class='ocrx_word' id='word_1_1' title='bbox 600 1062 1181 1176; x_wconf 78' lang='lat' dir='ltr'><strong>BENOIT</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 1277 1062 1506 1171; x_wconf 76' lang='lat' dir='ltr'>XII</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 887 1241 1204 1294">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 887 1241 1204 1294">
+     <span class='ocr_line' id='line_1_2' title="bbox 887 1241 1204 1294; baseline -0.007 -1.889"><span class='ocrx_word' id='word_1_3' title='bbox 887 1244 1056 1294; x_wconf 72' lang='lat'><strong>(-4334</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 1037 1241 1204 1291; x_wconf 20' lang='lat'>&amp;4342</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 462 1384 1646 1437">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 462 1384 1646 1437">
+     <span class='ocr_line' id='line_1_3' title="bbox 462 1384 1646 1437; baseline -0.003 0"><span class='ocrx_word' id='word_1_5' title='bbox 462 1385 955 1437; x_wconf 70' lang='lat' dir='ltr'><strong>LETTRES</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 1028 1384 1646 1437; x_wconf 77' lang='lat' dir='ltr'><strong>COMMUNES</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 188 1483 1922 1524">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 188 1483 1922 1524">
+     <span class='ocr_line' id='line_1_4' title="bbox 188 1483 1922 1524; baseline 0.001 -1"><span class='ocrx_word' id='word_1_7' title='bbox 188 1483 462 1524; x_wconf 67' lang='lat' dir='ltr'>ANALYSEES</span> <span class='ocrx_word' id='word_1_8' title='bbox 496 1484 692 1524; x_wconf 61' lang='lat' dir='ltr'>D’Al‘lzl‘cs</span> <span class='ocrx_word' id='word_1_9' title='bbox 728 1493 808 1522; x_wconf 60' lang='lat' dir='ltr'>mis</span> <span class='ocrx_word' id='word_1_10' title='bbox 841 1492 1093 1523; x_wconf 58' lang='lat' dir='ltr'>nvtflls&#39;l&#39;lzlffs</span> <span class='ocrx_word' id='word_1_11' title='bbox 1128 1491 1228 1521; x_wconf 68' lang='lat' dir='ltr'>lwl‘s</span> <span class='ocrx_word' id='word_1_12' title='bbox 1260 1490 1509 1521; x_wconf 67' lang='lat' dir='ltr'><strong>h’AVlGNoN</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 1545 1491 1597 1521; x_wconf 77' lang='grc' dir='ltr'>ΕΤ</span> <span class='ocrx_word' id='word_1_14' title='bbox 1633 1491 1687 1522; x_wconf 88' lang='lat' dir='ltr'>DU</span> <span class='ocrx_word' id='word_1_15' title='bbox 1724 1492 1922 1524; x_wconf 73' lang='lat' dir='ltr'><strong>VATICAN</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 845 1726 1276 1775">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 845 1726 1276 1775">
+     <span class='ocr_line' id='line_1_5' title="bbox 845 1726 1276 1775; baseline -0.007 0"><span class='ocrx_word' id='word_1_16' title='bbox 845 1728 1001 1775; x_wconf 69' lang='lat' dir='ltr'>d.-M.</span> <span class='ocrx_word' id='word_1_17' title='bbox 1058 1726 1276 1773; x_wconf 64' lang='lat' dir='ltr'>wom-</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
